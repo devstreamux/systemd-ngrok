@@ -1,5 +1,5 @@
 version: "2"
-authtoken: 2K4Qrb6bWx8pZapQNWr2Co0AIWT_3PTLcGVvH99wFkwRjqGEG
+authtoken: <add_your_token_here>
 region: us
 tunnels:
     web:
