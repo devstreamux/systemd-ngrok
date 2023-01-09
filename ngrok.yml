@@ -1,9 +1,11 @@
 version: "2"
-authtoken: <add_your_token_here>
+authtoken: 2K4Qrb6bWx8pZapQNWr2Co0AIWT_3PTLcGVvH99wFkwRjqGEG
+region: us
 tunnels:
     web:
         proto: http
         addr: 80
+        hostname: explorer.streamux.cloud
     ssh:
         proto: tcp
         addr: 22
